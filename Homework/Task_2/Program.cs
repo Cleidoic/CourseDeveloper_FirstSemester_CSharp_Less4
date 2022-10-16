@@ -9,3 +9,7 @@
 int GetNumber (string message) {
 
 }
+
+int SumDigit(int num) {
+    
+}
